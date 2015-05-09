@@ -1,0 +1,7 @@
+#language is noonsnese
+language: node_js
+node_js:
+  - "0.11"
+script:
+    # always success
+    - exit 0
