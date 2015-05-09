@@ -15,6 +15,7 @@ _       ___ | | ___   ____ _____  __| |  | | _____  ___  ___    ____   ___   ___
 
 ## Usage
 The prefix 'c' means colored!:)
+
 >     cless file
 
 >     cmore file
