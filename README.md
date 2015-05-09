@@ -1,4 +1,4 @@
-colored-less-more-cat
+colored-less-more-cat  [![Build Status](https://travis-ci.org/KevinOfNeu/angular-app-seed.svg)](https://travis-ci.org/KevinOfNeu/angular-app-seed)
 ==============
 <pre>
 _______      _                       _    _
